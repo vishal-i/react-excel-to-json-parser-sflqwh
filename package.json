@@ -1,0 +1,20 @@
+{
+  "name": "react-excel-to-json-parser",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "xlsx": "0.13.4",
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "office-ui-fabric-react": "6.49.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
